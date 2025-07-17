@@ -7,3 +7,4 @@ stage branch change
 this is for checking issue
 facing trouble for master
 master branch change
+this is new tag we added to check github tagging 
